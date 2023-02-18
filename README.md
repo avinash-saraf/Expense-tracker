@@ -7,7 +7,6 @@ npm install
 npm start 
 ```
 
-Bro
-Whats up
+
 
 
