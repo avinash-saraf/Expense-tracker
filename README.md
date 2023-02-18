@@ -1,4 +1,4 @@
-# React Budget App
+# Expense Tracker App
 
 To run:
 
@@ -6,4 +6,4 @@ To run:
 npm install 
 npm start 
 ```
-# Expense-tracker
+
